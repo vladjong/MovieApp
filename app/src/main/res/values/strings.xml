@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="avengers_end_game">Avengers:\nEnd Game</string>
+    <string name="_13">13+</string>
+    <string name="back">Back</string>
+    <string name="action_adventure">Action, Adventure, Fantasy</string>
+    <string name="_125_reviews">125 REVIEWS</string>
+    <string name="storyline">Storyline</string>
+    <string name="description">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="cast">Cast</string>
+    <string name="robert_ndowney_jr">Robert\nDowney Jr.</string>
+    <string name="chris_nevans">Chris\nEvans</string>
+    <string name="mark_nruffalo">Mark\nRuffalo</string>
+    <string name="chris_hemsworth">Chris\nHemsworth</string>
+
+
+</resources>

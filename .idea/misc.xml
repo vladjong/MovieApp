@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/drawable/ic_android_studio.xml" value="0.1" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/drawable/ori.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/android_studio.xml" value="0.1" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/ic_android_studio.xml" value="0.1" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/image_viev_svg_w1.xml" value="0.2" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/image_view_png.xml" value="0.1" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/layout_w2.xml" value="0.1" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/layout/layout_w3.xml" value="0.6" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.246875" />
+        <entry key="..\:/Users/vladislav/AndroidStudioProjects/View/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
